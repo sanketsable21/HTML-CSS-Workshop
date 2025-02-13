@@ -1,0 +1,31 @@
+body{
+    background-color: #FFF5DB;
+}
+
+img{
+    width: 400px;
+    height: 100%;
+
+    /* Centre Image */
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 1px solid black;
+}
+
+h1{
+    text-align: center;
+    color: #800000;
+    text-decoration: underline;
+}
+
+h2{
+    text-align: center;
+    color: #800000;
+    font: bold 20px/30px Georgia, serif;
+}
+
+h4{
+    text-decoration: underline;
+}
+
