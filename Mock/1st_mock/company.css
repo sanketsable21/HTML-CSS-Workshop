@@ -18,7 +18,7 @@ h2{
 /* Body CSS */
 body {
     background-color: darkgray;
-    margin: 30px;
+    margin: 50px;
     font-family: poppins;
     font-size: 20px;
 }
@@ -64,6 +64,7 @@ li {
     position: sticky;
     width: 100%;
     bottom: 0;
+    border-radius: 8px;
 }
 
 /* Height Spacing */
