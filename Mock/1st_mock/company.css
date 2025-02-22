@@ -6,6 +6,13 @@ h2 {
     text-align: center;
     color: black;
     background-color: wheat;
+    border-radius: 20px;
+}
+
+
+/* For h2 color */
+h2{
+    background-color: #d4f4e4;
 }
 
 /* Body CSS */
@@ -39,11 +46,13 @@ li {
 
 /* Header Styles */
 .header {
-    background-color: orange;
-    color: white;
+    background-color: #f8f8f8;
+    color: black;
     text-align: center;
     padding: 20px;
-    font-size: 24px;
+    font-size: 30px;
+    font-style: inherit;
+    border-radius: 8px;
 }
 
 /* Footer Styles */
@@ -55,4 +64,19 @@ li {
     position: sticky;
     width: 100%;
     bottom: 0;
+}
+
+/* Height Spacing */
+p{
+    line-height: 1.4;
+}
+
+/* For Section Box */
+.section-box {
+    background: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
 }
