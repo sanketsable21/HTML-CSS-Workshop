@@ -1,0 +1,58 @@
+/* h1, h2 CSS using grouping selector */
+h1,
+h2 {
+    font-style: inherit;
+    font-size: 35px;
+    text-align: center;
+    color: black;
+    background-color: wheat;
+}
+
+/* Body CSS */
+body {
+    background-color: darkgray;
+    margin: 30px;
+    font-family: poppins;
+    font-size: 20px;
+}
+
+/* Image CSS */
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+    width: 20%;
+    border-radius: 20px 20px 20px 20px;
+    border: 10px solid black;
+    margin-top: 10px;
+}
+
+/* p,ul,li CSS using grouping selector */
+p,
+ul,
+li {
+    list-style: none;
+    font-size: 20px;
+    text-align: center;
+    font-style: oblique;
+}
+
+/* Header Styles */
+.header {
+    background-color: orange;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+}
+
+/* Footer Styles */
+.footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    position: sticky;
+    width: 100%;
+    bottom: 0;
+}
