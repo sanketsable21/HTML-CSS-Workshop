@@ -1,0 +1,205 @@
+/* This is comment (Single Line / Multi Line) */
+
+body{
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    border-radius: 20px;
+    border: 20px solid white;
+}
+
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    display: inline-block;
+    margin: 5px;
+    border: 5px solid black;
+    border-radius: 50%;
+}
+
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: #264DE4;
+    display: inline-block;
+    margin: 5px;
+    border: 5px solid black;
+    border-radius: 40%;
+}
+
+.box3{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    display: inline-block;
+    margin: 5px;
+    border: 5px solid black;
+    border-radius: 30%;
+}
+
+.box4{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    display: inline-block;
+    margin: 5px;
+    border: 5px solid black;
+    border-radius: 20%;
+}
+
+.box5{
+    width: 100px;
+    height: 100px;
+    background-color: #563d7c;
+    display: inline-block;
+    margin: 5px;
+    border: 5px solid black;
+    border-radius: 10%;
+}
+
+.box6{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(144, 206, 227);
+    display: inline-block;
+    margin: 5px;
+    border: 5px solid black;
+    border-radius: 5%;
+}
+
+/* Image CSS */
+
+#img1{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+    border: 5px solid black;
+    border-radius: 20%;
+}
+
+#img2{
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+    border: 5px solid black;
+    border-radius: 20%;
+}
+
+#img3{
+    width: 200px;
+    height: 200px;
+    background-color: whitesmoke;
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+    border: 5px solid black;
+    border-radius: 20%;
+}
+
+#img4{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(48, 150, 205);
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+    border: 5px solid black;
+    border-radius: 20%;
+}
+
+#img5{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(51, 100, 51);
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+    border: 5px solid black;
+    border-radius: 20%;
+}
+
+
+/* Header */
+.header{
+    background-color: rgb(96, 109, 121);
+    padding: 20px;
+}
+
+a{
+    margin: 20px;
+    text-decoration-line: none;
+    color: white;
+    text-shadow: 5px 5px 5px black;
+}
+
+.footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    /* position: sticky; */
+    width: 100%;
+    bottom: 0;
+    border-radius: 5px;
+}
+
+#linkedin{
+    width: 50px;
+    height: 50px;
+    /* background-color: rgb(0, 119, 181); */
+    display: inline-block;
+    margin-left: 20px;
+    padding: 5px;
+    border: 5px solid black;
+    border-radius: 20%;
+}
+
+#X{
+    width: 50px;
+    height: 50px;
+    /* background-color: rgb(0, 119, 181); */
+    display: inline-block;
+    margin-left: 20px;
+    padding: 5px;
+    border: 5px solid black;
+    border-radius: 20%;
+}
+
+#Instagram{
+    width: 50px;
+    height: 50px;
+    /* background-color: rgb(0, 119, 181); */
+    display: inline-block;
+    margin-left: 20px;
+    padding: 5px;
+    border: 5px solid black;
+    border-radius: 20%;
+}
+
+#Whatsapp{
+    width: 50px;
+    height: 50px;
+    /* background-color: rgb(0, 119, 181); */
+    display: inline-block;
+    margin-left: 20px;
+    padding: 5px;
+    border: 5px solid black;
+    border-radius: 20%;
+}
