@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+    margin: 80px;
+}
+
+h1{
+    color: blue;
+    font-size: 20px;
+}
+
+#html{
+    color: orange;
+}
+
+#css{
+    color: green;
+}
+
+#javascript{
+    color: red;
+}
