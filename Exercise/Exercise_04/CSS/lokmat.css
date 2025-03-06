@@ -1,0 +1,38 @@
+.container {
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 1%;
+    text-align: justify;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 130px;
+    background-color: rgb(228, 225, 225);
+}
+
+.head1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 82px;
+    /* Adjust as needed */
+    font-weight: bold;
+}
+
+.head2 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.heading {
+    font-size: 130px;
+    font-weight: bold;
+    text-align: center;
+    color: red;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    border-radius: 20px;
+}
