@@ -1,0 +1,21 @@
+p::after{
+    content: url(../Images/image.png);
+}
+
+h1::after{
+    content: "🙂";
+}
+
+h1::before{
+    content: "🙋‍♂️";
+}
+
+p::first-letter{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+p::first-line{
+    color: blueviolet;
+}
+
