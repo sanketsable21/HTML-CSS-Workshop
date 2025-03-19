@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f5f5f5;
+    gap: 20px;
+}
+
+.container {
+    width: 200px;
+    height: 200px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+
+.linear-gradient {
+    background: linear-gradient(55deg, #ff7e5f, #feb47b);
+}
+
+
+.conic-gradient {
+    background: conic-gradient(from 0deg, red, yellow, green, blue, purple, red);
+}
+
+
+.radial-gradient {
+    background: radial-gradient(circle, #ff7eb3, #ff758c, #ff6874);
+}
