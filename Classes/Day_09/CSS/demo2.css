@@ -19,3 +19,36 @@ p::first-line{
     color: blueviolet;
 }
 
+p::selection{
+    color: red;
+    background-color: yellow;
+}
+
+li::marker{
+    font-size: 20px;
+    content: "🌟";
+}
+
+/* Pseudo Classes */
+
+/* Unvisited Link */
+a{
+    color: rgb(165, 42, 118);
+}
+
+/* Visited Link */
+a:visited{
+    color: rgb(42, 165, 56);
+}
+
+/* Active Link */
+a:active{
+    color: rgb(79, 42, 165);
+}
+
+
+/* Hover Link */
+a:hover{
+    color: red;
+    background-color: yellow;
+}
